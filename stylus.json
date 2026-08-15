@@ -1,0 +1,1701 @@
+[
+  {
+    "settings": {
+      "disableAll": false,
+      "exposeIframes": false,
+      "exposeIframes.sites": "",
+      "exposeIframes.sitesOnly": false,
+      "exposeStyleName": false,
+      "keepAlive": 0,
+      "keepAliveIdle": false,
+      "newStyleAsUsercss": false,
+      "openEditInWindow": true,
+      "openEditInWindow.popup": false,
+      "patchCsp": false,
+      "patchCsp.sites": "",
+      "patchCsp.sitesOnly": false,
+      "show-badge": true,
+      "styleViaASS": false,
+      "styleViaASS.sites": "",
+      "styleViaASS.sitesOnly": false,
+      "styleViaXhr": false,
+      "styleViaXhr.sites": "",
+      "styleViaXhr.sitesOnly": false,
+      "urlInstaller": true,
+      "windowPosition": {
+        "left": 2686,
+        "top": 262,
+        "width": 1154,
+        "height": 618
+      },
+      "compactWidth": 850,
+      "config.autosave": true,
+      "schemeSwitcher.enabled": "dark",
+      "schemeSwitcher.nightStart": "18:00",
+      "schemeSwitcher.nightEnd": "06:00",
+      "popup.enabledFirst": true,
+      "popup.stylesFirst": true,
+      "popup.autoResort": false,
+      "popup.borders": false,
+      "popup.findSort": "w",
+      "manage.onlyEnabled": false,
+      "manage.onlyLocal": false,
+      "manage.onlyUsercss": false,
+      "manage.onlyEnabled.invert": false,
+      "manage.onlyLocal.invert": false,
+      "manage.onlyUsercss.invert": false,
+      "manage.actions.expanded": false,
+      "manage.backup.expanded": true,
+      "manage.filters.expanded": true,
+      "manage.links.expanded": true,
+      "manage.minColumnWidth": 750,
+      "manage.newUI": true,
+      "manage.newUI.favicons": true,
+      "manage.newUI.faviconsGray": false,
+      "manage.newUI.targets": 3,
+      "manage.newUI.sort": "title,asc",
+      "manage.searchMode": "meta",
+      "editor.options": {},
+      "editor.toc.expanded": true,
+      "editor.options.expanded": true,
+      "editor.options.style.expanded": true,
+      "editor.general.expanded": true,
+      "editor.lint.expanded": true,
+      "editor.publish.expanded": true,
+      "editor.lineWrapping": true,
+      "editor.smartIndent": true,
+      "editor.indentWithTabs": false,
+      "editor.tabSize": 4,
+      "editor.keyMap": "sublime",
+      "editor.theme": "default",
+      "editor.beautify": {
+        "selector_separator_newline": true,
+        "newline_before_open_brace": false,
+        "newline_after_open_brace": true,
+        "newline_between_properties": true,
+        "newline_before_close_brace": true,
+        "newline_between_rules": false,
+        "preserve_newlines": true,
+        "end_with_newline": false,
+        "indent_conditional": true,
+        "indent_mozdoc": true,
+        "space_around_combinator": true,
+        "space_around_cmp": false
+      },
+      "editor.beautify.hotkey": "",
+      "editor.toggle.hotkey": "Alt-Enter",
+      "editor.toggle.save": false,
+      "editor.linter": "csslint",
+      "editor.linter.on": true,
+      "editor.lintReportDelay": 500,
+      "editor.matchHighlight": "token",
+      "editor.autoCloseBrackets": false,
+      "editor.autocompleteOnTyping": false,
+      "editor.contextDelete": false,
+      "editor.selectByTokens": true,
+      "editor.arrowKeysTraverse": false,
+      "editor.appliesToLineWidget": true,
+      "editor.autosaveDraft": 10,
+      "editor.livePreview": true,
+      "editor.livePreview.delay": 0.2,
+      "editor.targetsFirst": true,
+      "editor.colorpicker": true,
+      "editor.colorpicker.hexUppercase": 0,
+      "editor.colorpicker.hotkey": "",
+      "editor.colorpicker.color": "",
+      "editor.colorpicker.maxHeight": 300,
+      "hotkey._execute_browser_action": "",
+      "hotkey.openManage": "",
+      "hotkey.styleDisableAll": "",
+      "hotkey.toggleTab": "",
+      "sync.enabled": "google",
+      "iconset": -1,
+      "badgeDisabled": "#8B0000",
+      "badgeNormal": "#006666",
+      "headerWidth.edit": 280,
+      "headerWidth.install": 280,
+      "headerWidth.manage": 280,
+      "popup.search.globals": false,
+      "popup.sidePanel": false,
+      "popup.sidePanel.config": -1,
+      "popup.sidePanel.editor": false,
+      "popup.sidePanel.finder": false,
+      "popup.sidePanel.manager": false,
+      "popup.sidePanel.options": true,
+      "popup.toggler.expanded": false,
+      "popupWidth": 246,
+      "popupWidthMax": 280,
+      "updateInterval": 24,
+      "updateOnlyEnabled": false
+    },
+    "order": {
+      "main": [],
+      "prio": []
+    }
+  },
+  {
+    "enabled": true,
+    "installDate": 1734461293798,
+    "name": "facebook.com",
+    "sections": [
+      {
+        "code": "li:has( > div > div > div > a > div > div > div > i[style*=\"https://static.xx.fbcdn.net/rsrc.php/yq/r/6aum_pQMnLN.webp');background-position:0 -296px;\"] ),\nli:has( > div > div > div > a > div > div > div > i[style*=\"https://static.xx.fbcdn.net/rsrc.php/yq/r/6aum_pQMnLN.webp');background-position:0 -111px;\"] )\n\n\n{\n    display: none !important;\n}\n\ndiv[data-visualcompletion=\"ignore-late-mutation\"]:has(> div > div > div > div > div > div > div > a[attributionsrc*=\"/privacy_sandbox/comet/register\"]) \n{\n    display: none !important;\n}\n\ndiv:has(> div > div > div > div > div > span > div[data-ad-rendering-role=\"profile_name\"] > h4 > span > span:nth-child(3) > span:nth-child(2) > div[role=\"button\"]),\n\ndiv:has(> div > div > div > div > div > span > div[data-ad-rendering-role=\"profile_name\"] > h4 > div > span:nth-child(2) > span:nth-child(2) > div[role=\"button\"]),\n\ndiv:has(> div > div > div > div > div > span > div[data-ad-rendering-role=\"profile_name\"] > h4 > span > span:nth-child(2) > span:nth-child(2) > div[role=\"button\"])\n{\n\n    display: none !important;\n\n}\n\ndiv[data-instancekey*=\"id-vpuid-\"] > div > div:has(+i) {\n    display: none !important;\n}\n\ndiv[data-instancekey*=\"id-vpuid-\"] > div {\n    height: calc(100% - 70px) !important;\n    height: 40px !important;\n    top: calc(100% - 120px) !important;\n    width: 200px;\n    right: 0px !important;\n}\n\n\n\ndiv[aria-label=\"Unmute\"],\ndiv[aria-label=\"Change Position\"],\ndiv[aria-label=\"Pause\"],\ndiv[aria-label=\"Play video\"],\ndiv[aria-label=\"Play\"],\ndiv[aria-label=\"Click to expand\"],\na[aria-label=\"Open in Video\"],\ndiv[aria-label=\"Enter fullscreen\"],\ndiv[aria-label=\"Continue watching while you browse Facebook.\"]\n\n{\n    display: none;\n}\n\nvideo+div[data-instancekey*=\"id-vpuid-\"] {\n    display: none !important;\n}\n\ndiv[data-instancekey*=\"id-vpuid-\"] > div {\n    /* width: 50%;*/\n}\n\ndiv[data-instancekey*=\"id-vpuid-\"] > div > div > div[tabindex=\"0\"] > div:first-child {\n    display: none !important;    \n}\n\ndiv[data-instancekey*=\"id-vpuid-\"] > div > div > div[tabindex=\"0\"] > div+div {\n    bottom: 100px;\n}\n\nli:has(a[href*=\"meta.ai\"]),\nli:has(a[href*=\"facebook.com/gaming\"]),\nli:has(a[href*=\"meta.com%2Fquest\"]),\nli:has(a[href*=\"ai-glasses\"]),\nli:has(a[href*=\"facebook.com/messenger_kids\"])\n{\n    display: none;\n}\n\ndiv[role=\"main\"] > div > div > div > div > div > div > div > div[role=\"presentation\"] ,\ndiv[role=\"main\"] > div > div > div > div > div > div > div[data-visualcompletion=\"ignore\"],\na > span[data-visualcompletion=\"ignore\"] > div > div > div[data-visualcompletion=\"ignore\"] {\n    display: none !important;\n}\n\ndiv:has(> div > span > div > span > div>div>div >div>div>div >div>div>div >div>div>div >div>div>a[aria-label=\"Meta AI branding\"])\n{\n    display: none !important;\n}\n\na {\n    box-shadow: none !important;\n}\n\na[aria-label=\"reel\"] {\n    \n    background-image: none !important;\n}\n\na[aria-label=\"reel\"] video + div {\n    display: none !important;   \n}\n\n\na[href*=\"/messages/t/\"]:has(svg[title=\"Verified account\"]),\nli[id=\"156025504001094\"]:has(svg[title=\"Verified account\"]),\nli[id=\"newCommunityChat\"]\n{\n    display: none !important;\n}\n\ndiv[aria-label=\"Media viewer\"] > div:nth-child(2) > div:first-child {\n    background-image: none !important;\n}\n\ndiv:has( > div > div > div >div > div > div > div > div >div > div > div > div > div > div > div > div > div > div > a[aria-label=\"See more groups\"]),\ndiv[aria-label=\"Facebook\"][role=\"navigation\"]\n\n{\n  display: none !important;   \n}\n\n\ndiv[aria-hidden=\"false\"]:has( > div > div > div[aria-label=\"Facebook\"][role=\"navigation\"]) {\n    background: rgba(0,0,0,0) !important;\n    display: none !important;\n}\n\ndiv:has( > div > div[aria-label=\"Facebook\"][role=\"navigation\"]),\ndiv[role=\"main\"] > div:nth-of-type(3) > div {\n    background: rgba(0,0,0,0) !important;\n}\ndiv[role=\"main\"] > div:nth-of-type(3) {\n    z-index: auto !important;\n}\n\ndiv[role=\"banner\"] > div:nth-of-type(4) > div > div:nth-of-type(2) {\n    display: none !important;   \n}\n\n\ndiv:has( > div > a[aria-label=\"See more groups\"]) {\n    display: none !important;\n}\n\ndiv:has(>div>div>div>a[attributionsrc*=\"/privacy_sandbox/comet/register/source/\"]>div>div>div>div>div[aria-label*=\"affiliate\"] ),\na[href*=\"amzn.to\"]\n{\n    display: none !important;\n}\n\ndiv:has(>a[href*=\"amzn.to\"]>div.html-div) {\n display: none !important;\n}",
+        "domains": [
+          "facebook.com"
+        ]
+      }
+    ],
+    "updateDate": 1778211890923,
+    "_id": "1b0d339c-9874-42ec-b3f2-92a67f00084a",
+    "_rev": 1778525016070,
+    "id": 1
+  },
+  {
+    "enabled": false,
+    "installDate": 1745348891753,
+    "name": "instagram.com - old April 2025",
+    "sections": [
+      {
+        "code": "div.html-div > div > div[role=\"button\"] > div > div > div:has(>img) + div {\n    display: none !important;\n}\n/*\ndiv:has(>div>div[role=\"dialog\"])\n{\n    max-height: 70vh !important;\n    padding-bottom: 300px;\n    margin-bottom: 150px;\n    \n}\n*/\n\narticle[role=\"presentation\"] > div.html-div\n{\n    /*\n    height: 100vh !important;\n    */\n    \n}\narticle[role=\"presentation\"] > div.html-div >div >div>div >div>div>div >div >div >div > video\n{\n    /*\n    height: 100vh !important;\n    margin-top: 20px;\n    */\n}\n\n/*\narticle[role=\"presentation\"] > div.html-div >div :has(>div>div >div>div>div >div>div > video)\n{\n    max-height: 100vh !important;\n    padding-bottom: 0px;\n  \n}\n*/\n\ndiv:has(>div>div>textarea[placeholder*=\"Reply to\"])\n{\n    width: 300px !important;\n    margin: auto;\n    padding-bottom: 50px;\n    opacity: 0.4;\n}\n\n:root {\n    --feed-sidebar-width: 100px;\n}\n\n/* main > div:nth-of-type(2) > div >  */\narticle[role=\"presentation\"] > div > div > div[role=\"button\"] > div > div > div[role=\"button\"] > div:nth-of-type(2) {\n display: none !important;   \n}\n\ndiv:has(>article[role=\"presentation\"]),\nmain>div>div{\n\n/*\n    max-width: 850px !important;\n    min-width: 850px !important;\n    max-height: 880px !important;\n*/\n}\n\nmain[role=\"main\"] > div \n{\n    max-width:100% !important;\n}\n\na[href=\"/explore/\"],\na[href=\"/reels/\"],\na[href=\"https://www.meta.ai/?utm_source=ig_web_nav\"],\na[href=\"https://aistudio.instagram.com/?utm_source=ig_web_nav\"]\n\n{ \n    display: none !important;\n}\n\ndiv:has(>span>div>a[href=\"https://aistudio.instagram.com/?utm_source=ig_web_nav\"]) ~ span,\nfooter\n{\n    display: none !important;\n}\n\ndiv[role=\"button\"] div:has(>video)\n{\n    height: 97% !important;\n}\n\nvideo + div\n{\n    display: none !important;\n    \n}\n\n",
+        "domains": [
+          "instagram.com"
+        ]
+      }
+    ],
+    "updateDate": 1771368112832,
+    "_id": "9d9286c7-7d3a-4fac-8f60-51d9d1e297d5",
+    "_rev": 1771368112832,
+    "id": 2
+  },
+  {
+    "enabled": true,
+    "installDate": 1754152684328,
+    "name": "qr-code-generator.com",
+    "sections": [
+      {
+        "code": "qrcg-generator-qr-code {\n    width: 100% !important;\n}\n\ndiv.generator__wrapper {\npadding: 0px;\n}\n\nnav.burger-nav,\nfooter,\n#exit-intent-modal,\ndiv.modal-backdrop,\na.generator-preview__badge,\ndiv.toggle,\ndiv[data-js=\"startpage-content\"],\nfooter,\ndiv.userway_buttons_wrapper,\ndiv.api-ad\n{\n    display: none !important;   \n}\n\ndiv.generator-forms\n{\n    max-width: 450px !important;\n        \n}\n\ndiv.generator-preview__wrapper {\n    min-height: 1000px;\n}\n\ndiv.generator-preview\n{\n    min-width: 1000px !important;\n    max-width: 100% !important;\n}\n\ndiv.container,\n.startpage .generator>div.container \n\n{\n    max-width: 100% !important;\n    padding: 0px !important;\n    \n}\n",
+        "domains": [
+          "qr-code-generator.com"
+        ]
+      }
+    ],
+    "updateDate": 1754155017299,
+    "_id": "3ba61e54-cd2b-4f1d-932f-a896342107f8",
+    "_rev": 1754155017299,
+    "id": 3
+  },
+  {
+    "enabled": true,
+    "installDate": 1723593811876,
+    "name": "ctvnews.ca - Aug 2024",
+    "sections": [
+      {
+        "code": "#jasper-player-overlay > div::before,\n#jasper-player-overlay > div::after { \nbackground-image: none !important;\n}\n#closeFloatPlayerBanner,\ndiv:has(> #jasper-player-overlay),\ndiv.shaka-text-container {\ndisplay: none !important;\n}\nvideo + div {\n display: none  !important;\n}\ndiv.c-jasper-player__player > div {\n    position: relative;\n    width: 100% !important;\n    height: 100% !important;\n    bottom: auto !important;\n    right: auto !important;\n}",
+        "domains": [
+          "ctvnews.ca"
+        ]
+      }
+    ],
+    "updateDate": 1785951453222,
+    "_id": "fab804c4-a50d-487b-80cb-3a95f2f1012b",
+    "_rev": 1785951453222,
+    "id": 4
+  },
+  {
+    "enabled": true,
+    "installDate": 1752734059502,
+    "name": "urbanaffairs.ca",
+    "sections": [
+      {
+        "code": "header .wrap-1{\n    position: relative !important;\n}",
+        "domains": [
+          "urbanaffairs.ca"
+        ]
+      }
+    ],
+    "updateDate": 1752734086768,
+    "_id": "d53aafb4-6119-4cc3-bd24-67b6f2cbdb7c",
+    "_rev": 1752734086768,
+    "id": 5
+  },
+  {
+    "enabled": true,
+    "installDate": 1752104180744,
+    "name": "androidauthority.com",
+    "sections": [
+      {
+        "code": "div:has(>a[href=\"https://www.androidauthority.com/deals\"]) {\n    display: none !important;\n}",
+        "domains": [
+          "androidauthority.com"
+        ]
+      }
+    ],
+    "updateDate": 1752104180744,
+    "_id": "f7385800-7182-4515-a32b-d26f07dbf30c",
+    "_rev": 1752104180745,
+    "id": 6
+  },
+  {
+    "enabled": true,
+    "installDate": 1751672902589,
+    "name": "old.reddit.com/r/",
+    "sections": [
+      {
+        "code": ".pinnable-content.pinned,\n.reddit-video-player-root,\n.top-matter\n{ position: inherit !important; }\n",
+        "urlPrefixes": [
+          "https://old.reddit.com/r/"
+        ]
+      }
+    ],
+    "updateDate": 1786763158352,
+    "_id": "46fac8ac-44e5-4d3b-968b-813db11a7038",
+    "_rev": 1786763158352,
+    "id": 7
+  },
+  {
+    "enabled": true,
+    "installDate": 1750669580426,
+    "name": "genius.com",
+    "sections": [
+      {
+        "code": "#lyrics-root > div:not(div[data-lyrics-container=\"true\"]),\nnav,\ndiv[type=\"button\"],\ndiv > a[href=\"#about\"],\ndiv[data-exclude-from-selection=\"true\"],\ndiv:has(> #about),\ndiv:has(> #comments),\nfooter\n\n{\n    display: none !important;\n}",
+        "domains": [
+          "genius.com"
+        ]
+      }
+    ],
+    "updateDate": 1750669814631,
+    "_id": "ec64d8d7-3da6-4ed8-b5ce-238b7627d445",
+    "_rev": 1750669814632,
+    "id": 8
+  },
+  {
+    "enabled": true,
+    "installDate": 1749076925385,
+    "name": "map.purpleair.com",
+    "sections": [
+      {
+        "code": ".mapboxgl-canvas {\n    height: 100% !important;\n}\n\n#PageContainer {\n    top: 0px !important;   \n}\n\n.pa-site-frame__main-header,\ndiv.mapboxgl-ctrl-top-right,\n#shopify-section-header,\n.popup-get-sensor,\n#gdpr-cookie-message\n{\n    display: none !important;\n}",
+        "urlPrefixes": [
+          "https://map.purpleair.com/"
+        ]
+      }
+    ],
+    "updateDate": 1785954401794,
+    "_id": "b768666c-2d04-4b9c-83bb-4d4064e276e7",
+    "_rev": 1785954401794,
+    "id": 9
+  },
+  {
+    "enabled": true,
+    "installDate": 1739309916015,
+    "name": "photos.google.com",
+    "sections": [
+      {
+        "code": "div > c-wiz > c-wiz > div > div > div > div > a[href*=\"./memory/\"]+div > div > div > div:first-child \n{\n    background: none !important;\n}\n\ndiv[jsshadow] > div[jsslot] > div\n{\n   background-image: none !important; \n}\n\ndiv[role=\"menubar\"] {\n    background: none !important;\n    background-color: rgba(0,0,0,0) !important;\n}\n\ndiv[jslog*=\"Shipping_\"]\n{\n    display: none;\n}\n\n.ytp-gradient-top,\n.ytp-gradient-bottom \n{\n    display: none !important;\n}",
+        "domains": [
+          "photos.google.com"
+        ]
+      }
+    ],
+    "updateDate": 1764269818694,
+    "_id": "64b7f42c-ddef-4b55-a59b-17c096930e5d",
+    "_rev": 1764269818694,
+    "id": 10
+  },
+  {
+    "enabled": true,
+    "installDate": 1686968561904,
+    "name": "weather.gc.ca/?layers=",
+    "sections": [
+      {
+        "code": "header, footer, #wb-cont, .vl-alert-banner, div.pagedetails, #weathertopicslink  { display: none; }\ndiv#app main.container-fluid section p { display: none; } \ndiv#app div.container.hidden-print {display: none; }\ndiv#collapsible-alerts.container { float: right; position: absolute }\n.vl-map {height: 100vh !important;}\n",
+        "urlPrefixes": [
+          "https://weather.gc.ca/?layers="
+        ]
+      }
+    ],
+    "updateDate": 1686970001050,
+    "_id": "a4df0c07-a869-4b63-a900-47312e1ddd24",
+    "_rev": 1748580282065,
+    "id": 11
+  },
+  {
+    "enabled": true,
+    "installDate": 1748535374403,
+    "name": "leta.mullvad.net",
+    "sections": [
+      {
+        "code": "article {\n    margin-block: 1rem !important;\n    position: relative !important;\n}\n\ndiv.settingsPlaceholder::before,\ndiv.settingsPlaceholder::after {\n    background: none !important;\n}\n\nbody, \n.content \n{ \n    background-color: #111 !important; \n    font-size: 14px;\n}\n\ndiv.results {\n    margin-block-start: 0rem !important;\n}\n\ndiv.result__header cite {\n    font-size: 0.8rem !important;\n}\n\np.result__body:before {\n  content: \"\";\n  position: absolute;\n  top: 4em;\n  left: 0;\n  width: 90px; /* estimate based on font */\n  height: 1.4em; /* match line height */\n  background: rgba(0, 0, 0, 0.4); /* dimming overlay */\n  pointer-events: none; \n}\n\nh3 {\n    font-size: 19px !important;\n    font-weight: 400;\n    color: rgb(184, 253, 255) !important;\n}\n\ndiv.icon-wrapper {\n    width: 1rem !important;\n    height: 1rem !important;\n}\n\nfooter \n{\n    display: none !important;\n}\n",
+        "domains": [
+          "leta.mullvad.net"
+        ]
+      }
+    ],
+    "updateDate": 1748555852269,
+    "_id": "7502a27e-100d-4362-8aa3-a2c59985634b",
+    "_rev": 1748555852269,
+    "id": 12
+  },
+  {
+    "enabled": true,
+    "installDate": 1710280494584,
+    "name": "www.tumblr.com",
+    "sections": [
+      {
+        "code": "div:has(> footer),\ndiv:has(> div > button[aria-label=\"Sign up\"])\n{\n  display: none !important;\n}\nbody { overflow: auto; }",
+        "domains": [
+          "www.tumblr.com"
+        ]
+      }
+    ],
+    "updateDate": 1748308983632,
+    "_id": "eed403a0-3b4e-4cf2-8aaa-2a5cfb9b42be",
+    "_rev": 1748308983632,
+    "id": 13
+  },
+  {
+    "enabled": true,
+    "installDate": 1747165187934,
+    "name": "scribd.com",
+    "sections": [
+      {
+        "code": ".text_layer span {\n    color: #000 !important;\n}",
+        "domains": [
+          "scribd.com"
+        ]
+      }
+    ],
+    "updateDate": 1747165187934,
+    "_id": "fe6f5902-626a-43aa-92e2-e0bc754230fe",
+    "_rev": 1747165187934,
+    "id": 14
+  },
+  {
+    "enabled": true,
+    "installDate": 1745354643296,
+    "name": "flickr.com",
+    "sections": [
+      {
+        "code": "div.moola-content-spacing {\n    display: none !important;\n}",
+        "domains": [
+          "flickr.com"
+        ]
+      }
+    ],
+    "updateDate": 1745354643296,
+    "_id": "19d73d80-f427-4098-a756-002cee21b014",
+    "_rev": 1745354643297,
+    "id": 15
+  },
+  {
+    "enabled": true,
+    "installDate": 1744442651223,
+    "name": "limetorrents.lol",
+    "sections": [
+      {
+        "code": "div.downloadareabig,\ndiv:has(> div > a.csprite_addtobm)\n{\n    \n    display: none !important;\n}",
+        "domains": [
+          "limetorrents.lol"
+        ]
+      }
+    ],
+    "updateDate": 1744442885879,
+    "_id": "6dc6bb2e-ddee-4248-9e4d-3b328ca77a13",
+    "_rev": 1744442885879,
+    "id": 16
+  },
+  {
+    "enabled": true,
+    "installDate": 1740385092538,
+    "name": "youtube.com",
+    "sections": [
+      {
+        "code": "#metapanel,\n.ytp-autonav-toggle-button-container,\nbutton.ytp-button[data-tooltip-target-id=\"ytp-autonav-toggle-button\"],\na.ytp-next-button\n{ display: none !important; }\n\ndiv.ytp-chrome-top,\ndiv.ytp-gradient-top,\ndiv.ytp-gradient-bottom,\ndiv.ytp-pause-overlay,\ndiv.ytp-fullscreen-quick-actions,\ndiv.ytp-overlays-container,\ndiv.ytp-share-panel,\ndiv.ytp-overflow-panel\n{\n    display: none !important;\n    \n}\n\n\n",
+        "domains": [
+          "youtube.com"
+        ]
+      }
+    ],
+    "updateDate": 1771750489083,
+    "_id": "ec74a0cb-e115-4c16-a058-fb300e22c308",
+    "_rev": 1775077103969,
+    "id": 17
+  },
+  {
+    "enabled": true,
+    "installDate": 1743017068780,
+    "name": "theatlantic.com",
+    "sections": [
+      {
+        "code": "img[loading=\"lazy\"] {\n    opacity: 1 !important;\n}",
+        "domains": [
+          "theatlantic.com"
+        ]
+      }
+    ],
+    "updateDate": 1743017068780,
+    "_id": "199deb84-11c1-43e0-b61b-122b03954a09",
+    "_rev": 1743017068780,
+    "id": 18
+  },
+  {
+    "enabled": true,
+    "installDate": 1742942845022,
+    "name": "drive.google.com/file/",
+    "sections": [
+      {
+        "code": "section[role=\"tabpanel\"] {\n  background: none !important;\n\n}",
+        "urlPrefixes": [
+          "https://drive.google.com/file"
+        ]
+      }
+    ],
+    "updateDate": 1786763124768,
+    "_id": "112ebfc6-7daf-43a5-864a-770ea088f58a",
+    "_rev": 1786763124768,
+    "id": 19
+  },
+  {
+    "enabled": true,
+    "installDate": 1710881601602,
+    "name": "www.thestar.com",
+    "sections": [
+      {
+        "code": "div.subscriber-only,\n[hidden]\n{\n    display: block !important;\n}\n\ndiv.last-preview\n{\n    -webkit-text-fill-color: #000;\n}\nbody.modal-open {\n    overflow: auto !important;\n}\n.modal, .modal-small, .fade, .modal-backdrop {\n    display: none !important;\n}",
+        "urlPrefixes": [
+          "https://www.thestar.com"
+        ]
+      }
+    ],
+    "updateDate": 1786763179504,
+    "_id": "8ad928d8-e4b1-4b38-9d14-2add7f312dd6",
+    "_rev": 1786763179504,
+    "id": 20
+  },
+  {
+    "enabled": true,
+    "installDate": 1740327641122,
+    "name": "www.aliexpress.com/item/",
+    "sections": [
+      {
+        "code": ".header-dir-ltr, .comet-v2-anchor {\n    position: unset !important;\n}\n\ndiv[class*=\"magnifier--behiver--\"]\n{\n    display: none;\n}",
+        "urlPrefixes": [
+          "https://www.aliexpress.com/item/"
+        ]
+      }
+    ],
+    "updateDate": 1774327305688,
+    "_id": "eda640b7-cc2f-453e-8c01-cb2fde4151de",
+    "_rev": 1774327305688,
+    "id": 21
+  },
+  {
+    "enabled": true,
+    "installDate": 1739688588264,
+    "name": "weather.gc.ca/en/location/index",
+    "sections": [
+      {
+        "code": "body {\n    background-color: #111;\n    color: #bbb;\n    font-size: 12px;\n    line-height: 1;\n}\n\nheader {\n    margin-top: -10px;\n    \n    bottom: 0;\n\n    \n}\n\n#refresh_btn\n{\n    margin-top: -30px;\n    margin-bottom: -90px;\n   \n}\n\n#app div.container.hidden-print {\n    margin-top: -50px;\n\n}\n\nmain {\n    margin-top: -30px;\n}\n\na,\na:visited,\n.div-row-head a {\n    color: #aaf;\n}\n#wb-info .gc-sub-footer,\n.panel-default>.panel-heading,\n.div-column,\n.greybkgrd,\n.blackfont,\n.panel {\n    color: #ddd !important;\n    background-color: #222 !important;\n}\n.div-row,\n.table>tbody>tr,\ndetails[open] {\n    border-color: #555;\n}\ntable.wxo-normals th {\n    background-color: #999;\n}\n\ndiv.gc-main-footer, div.gc-sub-footer {\n    display: none;\n}",
+        "urlPrefixes": [
+          "https://weather.gc.ca/en/location/index.html"
+        ]
+      }
+    ],
+    "updateDate": 1773449686332,
+    "_id": "4c886250-9c17-415a-a329-991f9c3e0345",
+    "_rev": 1773449686332,
+    "preferScheme": "dark",
+    "id": 22
+  },
+  {
+    "enabled": false,
+    "installDate": 1709360941071,
+    "name": "Globe and Mail",
+    "sections": [
+      {
+        "code": "html.no-js .l-main article { display: block !important; }",
+        "domains": [
+          "www.theglobeandmail.com"
+        ]
+      }
+    ],
+    "updateDate": 1709360949524,
+    "_id": "d2c2d262-d613-4308-9e77-41c0fa1f0562",
+    "_rev": 1729186535015,
+    "id": 23
+  },
+  {
+    "enabled": true,
+    "installDate": 1709572950597,
+    "name": "Globe and Mail - Mar 2024",
+    "sections": [
+      {
+        "code": "html.no-js .l-main article { display: block !important; }\n",
+        "domains": [
+          "www.theglobeandmail.com"
+        ]
+      }
+    ],
+    "updateDate": 1729186262502,
+    "_id": "f0c31e01-d705-455f-a97c-0bf4778428aa",
+    "_rev": 1729186262502,
+    "id": 24
+  },
+  {
+    "enabled": true,
+    "installDate": 1723073012464,
+    "name": "cbc.ca - Aug 2024",
+    "sections": [
+      {
+        "code": "div.phx-info-overlay, div.phx-control-rack\n{\n  background-image: none !important;\n}\n\niframe[src*=\"doubleclick\"],\ndiv.ad-risingstar-container,\ndiv[class*=\"ad-\"]\n{\n    display: none !important;   \n}",
+        "domains": [
+          "cbc.ca"
+        ]
+      }
+    ],
+    "updateDate": 1758299718241,
+    "_id": "642dd6b5-e0de-4556-8bfc-b181640b006d",
+    "_rev": 1758299718241,
+    "id": 25
+  },
+  {
+    "enabled": false,
+    "installDate": 1723005851386,
+    "name": "https://x.com/*/status/*",
+    "sections": [
+      {
+        "code": "article:not([tabindex=\"-1\"]):has(> div > div > div > div > div > div > div > div > div > div > div > a > div > div > span > svg[aria-label=\"Verified account\"]) {\n    /* Verified account posts */\n    opacity: 0.2;\n    display: none;\n}\n\ndiv:has( > div > div > div > div > div > div  > div > div > div > div > div > div > span > svg[aria-label=\"Verified account\"]) {\n    /* Quote tweets of verified accounts */\n    opacity: 0.5;\n    display: none;\n}\n",
+        "regexps": [
+          "https://x.com/.*/status/.*"
+        ]
+      }
+    ],
+    "updateDate": 1723006139529,
+    "_id": "7a60d907-aa45-4d67-aa28-bcc1b5162e81",
+    "_rev": 1723006139529,
+    "id": 26
+  },
+  {
+    "enabled": false,
+    "installDate": 1723000156908,
+    "name": "x.com - Aug 2024",
+    "sections": [
+      {
+        "code": "article:has(> div > div > div > div > div > div > div > div > div > div > div > a > div > div > span > svg[aria-label=\"Verified account\"]) {\n    /* Verified account posts */\n    opacity: 0.2;\n    display: none;\n}\n\ndiv:has( > div > div > div > div > div > div  > div > div > div > div > div > div > span > svg[aria-label=\"Verified account\"]) {\n    /* Quote tweets of verified accounts */\n    opacity: 0.5;\n    display: none;\n}\n\n\ndiv:has(>div>div>div>div>div>div>div>div>a[data-testid=\"login\"])\n{\n    display: none !important;\n}\n\ndiv[data-testid=\"sidebarColumn\"]\n{\n    display: none !important;\n}",
+        "domains": [
+          "x.com"
+        ]
+      }
+    ],
+    "updateDate": 1756445120911,
+    "_id": "a5da7852-9d5f-4082-a43c-79598904e5ae",
+    "_rev": 1758761105515,
+    "id": 27
+  },
+  {
+    "enabled": true,
+    "installDate": 1722381367051,
+    "name": "edmontonfolkfest.org - Jul 2024",
+    "sections": [
+      {
+        "code": "#goevent-web gc-thumbnail>a { display: block; }",
+        "domains": [
+          "edmontonfolkfest.org"
+        ]
+      }
+    ],
+    "updateDate": 1722381367051,
+    "_id": "f3ac0724-32a8-4679-8649-3178a237d5c1",
+    "_rev": 1722381367051,
+    "id": 28
+  },
+  {
+    "enabled": false,
+    "installDate": 1714774461407,
+    "name": "twitter.com - May 2024",
+    "sections": [
+      {
+        "code": "/*\ndiv[role=\"group\"] {display: none !important; }\n*/\ndiv[data-testid=\"mask\"] { display: none !important; }\ndiv[data-testid=\"sheetDialog\"] { display: none !important; }\nhtml {\n    overflow: auto !important;\n    overscroll-behavior-y: auto !important;\n}",
+        "domains": [
+          "twitter.com"
+        ]
+      }
+    ],
+    "updateDate": 1714774811426,
+    "_id": "7100c759-de20-48a0-a1b3-e4310f56a787",
+    "_rev": 1719615216424,
+    "id": 29
+  },
+  {
+    "enabled": true,
+    "installDate": 1714618261817,
+    "name": "thesaurus.com - May 2024",
+    "sections": [
+      {
+        "code": ".related-words > h2:first,\n.synonym-of-the-day,\nfooter,\nsection[data-type=\"on-this-page-module\"],\n.has-link,\nul[data-type=\"pages-menu\"],\ndiv[data-type=\"favorite-star-button\"],\n#synonym-of-the-day,\nsection[data-type=\"common-quiz-module\"],\n#pagesmenu-tab-pop-culture,\n#pagesmenu-tab-games,\nul[aria-label=\"Pages Menu\"],\n.acw,\n#example-sentences,\n#word-of-the-day,\n.menu,\nsection[data-type=\"words-nearby-module\"],\nsection[data-type=\"browse-module\"]\n{\n display: none !important;   \n}\n\n",
+        "domains": [
+          "thesaurus.com"
+        ]
+      }
+    ],
+    "updateDate": 1714618343602,
+    "_id": "a35fd97c-483c-40f6-a775-ce416060f8d6",
+    "_rev": 1714618343602,
+    "id": 30
+  },
+  {
+    "enabled": true,
+    "installDate": 1714610221602,
+    "name": "www.quora.com - May 2024",
+    "sections": [
+      {
+        "code": "div.q-box { filter: none !important; }\nbody { overflow: auto !important; }",
+        "domains": [
+          "www.quora.com"
+        ]
+      }
+    ],
+    "updateDate": 1714610305303,
+    "_id": "97394c7f-55bf-4d31-9c14-38d0da433b6c",
+    "_rev": 1714610305303,
+    "id": 31
+  },
+  {
+    "enabled": true,
+    "installDate": 1713984147321,
+    "name": "honestdoor.com - Apr 2024",
+    "sections": [
+      {
+        "code": "div {\n    filter: none !important;\n}",
+        "domains": [
+          "honestdoor.com"
+        ]
+      }
+    ],
+    "updateDate": 1713984147322,
+    "_id": "6b1f0a43-a467-4f1e-a668-de0d1eeb10f3",
+    "_rev": 1713984147322,
+    "id": 32
+  },
+  {
+    "enabled": true,
+    "installDate": 1713306224988,
+    "name": "ca.linkedin.com - Apr 2024",
+    "sections": [
+      {
+        "code": ".overflow-hidden {\n    overflow: auto !important;\n}\n.blur {\n    --tw-blur: none !important;\n    filter: none !important;\n}",
+        "domains": [
+          "ca.linkedin.com"
+        ]
+      }
+    ],
+    "updateDate": 1713306337148,
+    "_id": "63ceed20-af9e-40af-bbf2-b2e199f584dc",
+    "_rev": 1713306337148,
+    "id": 33
+  },
+  {
+    "enabled": false,
+    "installDate": 1711139589702,
+    "name": "www.google.com/search - Mar 2024",
+    "sections": [
+      {
+        "code": "#lb \n{\n  display: none !important;\n}\n\ndiv:has(>div:has(>update-location))\n{\n  display: none !important;\n}\n",
+        "urlPrefixes": [
+          "https://www.google.com/search"
+        ]
+      }
+    ],
+    "updateDate": 1711139754987,
+    "_id": "d6ed1e77-cfcd-465f-9e55-91d17e26db71",
+    "_rev": 1711139754987,
+    "id": 34
+  },
+  {
+    "enabled": false,
+    "installDate": 1755133334234,
+    "name": "aliexpress.com",
+    "sections": [
+      {
+        "code": "div:has(> div > div > div[data-spm-anchor-id*=\"home\"]),\ndiv[class*=\"magnifier--behiver--\"],\n#J_xiaomi_dialog\n\n{\n    display: none;\n\n}",
+        "domains": [
+          "aliexpress.com"
+        ]
+      }
+    ],
+    "updateDate": 1756315814983,
+    "_id": "01f3ece4-e3b2-4df6-abc7-e04408550c16",
+    "_rev": 1760513413544,
+    "id": 35
+  },
+  {
+    "enabled": true,
+    "installDate": 1755526467833,
+    "name": "stackexchange.com",
+    "sections": [
+      {
+        "code": "#onetrust-consent-sdk {\n    display: none;\n}",
+        "domains": [
+          "stackexchange.com"
+        ]
+      }
+    ],
+    "updateDate": 1755526467833,
+    "_id": "2324a05f-6eda-4296-b5e7-5ea82cbb82fe",
+    "_rev": 1755526467833,
+    "id": 36
+  },
+  {
+    "enabled": true,
+    "installDate": 1755588811234,
+    "name": "rhizomefoundation.ca",
+    "sections": [
+      {
+        "code": "* {\n    cursor: auto !important;\n    \n}",
+        "domains": [
+          "rhizomefoundation.ca"
+        ]
+      }
+    ],
+    "updateDate": 1755588811234,
+    "_id": "7513dc90-8b63-4202-9cb4-3d2ed7cf2a5a",
+    "_rev": 1755588811235,
+    "id": 37
+  },
+  {
+    "enabled": true,
+    "installDate": 1755811610886,
+    "name": "discord.com",
+    "sections": [
+      {
+        "code": "div[class*=\"nitroTop\"],\ndiv[class*=\"upsell\"],\ndiv[class*=\"categorySectionNitroLocked\"]\n{\n    display: none !important;\n}",
+        "domains": [
+          "discord.com"
+        ]
+      }
+    ],
+    "updateDate": 1755811738540,
+    "_id": "a82ca0bd-707a-427b-81d5-df7f650b31f6",
+    "_rev": 1755811738540,
+    "id": 38
+  },
+  {
+    "enabled": true,
+    "installDate": 1755814169894,
+    "name": "citynews.ca",
+    "sections": [
+      {
+        "code": ".ad-load,\n.skipnav,\n.sticky-top,\ndiv.share-tools-row,\n.related-links,\n.sidebar,\n.top-stories,\n.videos-strip,\nfooter\n{\n    display: none !important;\n}\n\n.vjs-pip-legacy-responsive .video-js.vjs-pip-active {\n  position: relative !important;\n    display: none;\n}",
+        "domains": [
+          "citynews.ca"
+        ]
+      }
+    ],
+    "updateDate": 1755814434694,
+    "_id": "ed5cad58-7629-4711-aad7-d7fa4a864a14",
+    "_rev": 1755814434694,
+    "id": 39
+  },
+  {
+    "enabled": true,
+    "installDate": 1756237149346,
+    "name": "imgflip.com",
+    "sections": [
+      {
+        "code": "div.mm-preview,\n#mm-preview-outer {\n    width: 100% !important;\n    \n}\n\n#mm-settings {\n    display: block;\n}",
+        "domains": [
+          "imgflip.com"
+        ]
+      }
+    ],
+    "updateDate": 1756237193327,
+    "_id": "0d8403c5-751a-4dcb-8542-66e898c0a5c1",
+    "_rev": 1756237193327,
+    "id": 40
+  },
+  {
+    "enabled": true,
+    "installDate": 1756239896907,
+    "name": "edmontonjournal.com",
+    "sections": [
+      {
+        "code": ".conversation-starter,\n.article-content__widget-group--newsletter-slot,\n.promotional,\n.header__left,\n.sail,\n.ad__section-border,\n.article-meta-comment-count,\n.bookmark-wrapper,\n.newsletter--indent,\n.article-content__share-group,\n.story-v2-footer-container,\nfooter,\n.x_elementToProof,\n.header__after,\n.story-v2-share-group,\n.story-v2-right-rail\n{\n    \n    display: none !important;\n}\n\n.sticky--header {\n    position: relative;\n}",
+        "domains": [
+          "edmontonjournal.com"
+        ]
+      }
+    ],
+    "updateDate": 1786476259036,
+    "_id": "a4936a9b-4fa2-4138-9129-6fa6f8834543",
+    "_rev": 1786476259036,
+    "id": 41
+  },
+  {
+    "enabled": true,
+    "installDate": 1756594409049,
+    "name": "www.google.com/maps/",
+    "sections": [
+      {
+        "code": "div.app-center-widget-holder:has(#route-preview-controls-bottom-center) {\n    opacity: 1.0;\n    \n}\n\ndiv.app-center-widget-holder > #layer > div[role=\"status\"] > span > div.widget-layer-shown {\n    background-color: rgba(0,0,0,0);\n    text-shadow: 0px 0px 10px #ffffff;\n    font-weight: 800;\n    \n}\n\ndiv[aria-label=\"Available search options for this area\"]\n{\n    display: none !important;\n    opacity: 0.3;\n}\n\n#vasquette,\n#watermark\n{\n    display: none;\n}\n\ndiv[aria-roledescription=\"carousel\"]\n{\n    opacity: 0.7;\n    transform: scale(0.5);\n    transform-origin: top left\n}\n\n#minimap\n{\n    opacity: 0.5;\n    transform: scale(0.5);\n    transform-origin: top left;\n}\n\n#omnibox-singlebox\n{\n    opacity: 0.7;\n    transform: scale(0.8);\n    transform-origin: top left;\n}\n\ndiv:has(>button[aria-label=\"Show imagery\"])\n{\n    width: 60px;\n}\n\nbutton[aria-label=\"Show imagery\"]\n{\n    width: 20px;\n}\n\n#vasquette,\nbutton[aria-label=\"Show imagery\"]>label\n{\n    display: none;\n}",
+        "urlPrefixes": [
+          "https://www.google.com/maps/"
+        ]
+      }
+    ],
+    "updateDate": 1758823405892,
+    "_id": "7b7ea8ce-3257-4e77-b797-87286b54a4d1",
+    "_rev": 1758823405892,
+    "id": 42
+  },
+  {
+    "enabled": true,
+    "installDate": 1756882507604,
+    "name": "nytimes.com",
+    "sections": [
+      {
+        "code": "div[data-testid=\"onsite-messaging-unit-gateway\"],\ndiv.NYTAppHideMasthead \n{\n    \n    display: none;\n}\n\ndiv[data-testid=\"vi-gateway-container\"]\n{\n    overflow: auto;\n}\n\ndiv[data-testid=\"vi-gateway-container\"] > div[class*=\"css-\"]\n{\n    background: none;\n    display: none;\n}",
+        "domains": [
+          "nytimes.com"
+        ]
+      }
+    ],
+    "updateDate": 1756882844673,
+    "_id": "e3519f7a-02ea-45eb-804a-2aad3be56aa0",
+    "_rev": 1756882844673,
+    "id": 43
+  },
+  {
+    "enabled": false,
+    "installDate": 1756944859973,
+    "name": "chatrwireless.com",
+    "sections": [
+      {
+        "code": "",
+        "domains": [
+          "chatrwireless.com"
+        ]
+      }
+    ],
+    "updateDate": 1756944912476,
+    "_id": "8c55ae97-0bad-49d9-8991-9acf3918ca8e",
+    "_rev": 1756944912476,
+    "id": 44
+  },
+  {
+    "enabled": true,
+    "installDate": 1756944925310,
+    "name": "www.chatrwireless.com/account/reports",
+    "sections": [
+      {
+        "code": "div.container\n{\n    max-width: 100vw;\n}",
+        "urlPrefixes": [
+          "https://www.chatrwireless.com/account/reports"
+        ]
+      }
+    ],
+    "updateDate": 1756944925310,
+    "_id": "bd6c5d7a-4c68-4f7f-b678-21265334e6d4",
+    "_rev": 1756944925311,
+    "id": 45
+  },
+  {
+    "enabled": false,
+    "installDate": 1757141735278,
+    "name": "bbc.com",
+    "sections": [
+      {
+        "code": "header,\nnav\n{\n    \n    display: none;\n}",
+        "domains": [
+          "bbc.com"
+        ]
+      }
+    ],
+    "updateDate": 1757141741328,
+    "_id": "ec13f6b0-9127-4722-86ce-516bd88beae3",
+    "_rev": 1757141741328,
+    "id": 46
+  },
+  {
+    "enabled": true,
+    "installDate": 1757454438381,
+    "name": "alltrails.com",
+    "sections": [
+      {
+        "code": ".modalOpen\n{\n    overflow: auto !important;\n}\n\nfooter,\n#modalPortal,\ndiv[class*=\"DesktopCtas_floating__\"]\n{\n    \n    display: none !important;\n}\n\n.mapboxgl-popup\n{\n    opacity: 30%;\n}\n\nheader,\nfooter,\n#modalPortal\n{\n    display: none !important;\n}",
+        "domains": [
+          "alltrails.com"
+        ]
+      }
+    ],
+    "updateDate": 1760132139740,
+    "_id": "adcbd03d-a6db-4e6c-bb80-950b9b68f3b8",
+    "_rev": 1760132139740,
+    "id": 47
+  },
+  {
+    "enabled": true,
+    "installDate": 1757455753446,
+    "name": "www.alltrails.com/explore/poi/canada/alberta/jasper/coronet-creek",
+    "sections": [
+      {
+        "code": "div[class*=\"ExploreMap_container__\"] {\n    height: 100vh !important;\n}\n\nmain\n{\n    height: 100vh !important;\n}\nfooter,\nheader,\n#modalPortal\n{\n    display: none !important;\n    height: 0px !important;\n}\n\n#map-controls-container,\ndiv[class*=\"ExploreMapOverlays_mapOverlays\"]\n{\n    opacity: 0%;\n}",
+        "urlPrefixes": [
+          "https://www.alltrails.com/explore/poi/"
+        ]
+      }
+    ],
+    "updateDate": 1757456544925,
+    "_id": "fe09a6f0-50d6-4d2e-a662-e9484270bbc0",
+    "_rev": 1757456544925,
+    "id": 48
+  },
+  {
+    "enabled": true,
+    "installDate": 1757463692335,
+    "name": "amazon.ca",
+    "sections": [
+      {
+        "code": "#magnifierLens \n{\n    display: none !important;\n}\n\n.dim-video-player\n{ \n    opacity: 1 !important; \n}",
+        "domains": [
+          "amazon.ca"
+        ]
+      }
+    ],
+    "updateDate": 1783826190799,
+    "_id": "37204025-ddef-4ae6-b2e8-8c22f7c3e5cb",
+    "_rev": 1783826190799,
+    "id": 49
+  },
+  {
+    "enabled": true,
+    "installDate": 1757379563550,
+    "name": "windy.com",
+    "sections": [
+      {
+        "code": ".get-premium\n{\n    display: none !important;\n}",
+        "domains": [
+          "windy.com"
+        ]
+      }
+    ],
+    "updateDate": 1757379563550,
+    "_id": "47da2efe-dd25-474c-a9ad-cbdb199fab68",
+    "_rev": 1757379563551,
+    "id": 51
+  },
+  {
+    "enabled": true,
+    "installDate": 1757056709230,
+    "name": "calgaryherald.com",
+    "sections": [
+      {
+        "code": ".promotional,\n.header__left,\n.sail,\n.ad__section-border,\n.article-meta-comment-count,\n.bookmark-wrapper,\n.newsletter--indent,\n.article-content__share-group,\n.story-v2-footer-container,\nfooter,\n.x_elementToProof,\n.header__after,\n.story-v2-share-group,\n.story-v2-right-rail,\ndiv[data-widget=\"subscribe\"],\nnav,\nsection.more-topic \n{\n    \n    display: none !important;\n}\n\n.sticky--header {\n    position: relative;\n}",
+        "domains": [
+          "calgaryherald.com"
+        ]
+      }
+    ],
+    "updateDate": 1757056800231,
+    "_id": "8a478ee4-3c21-4034-9f65-4694f00fc2bc",
+    "_rev": 1757056800231,
+    "id": 53
+  },
+  {
+    "enabled": true,
+    "installDate": 1758568430993,
+    "name": "quadrohub.cfd",
+    "sections": [
+      {
+        "code": "span:has(>div h4.adblock_title) {\n    display: none !important;\n}",
+        "domains": [
+          "quadrohub.cfd"
+        ]
+      }
+    ],
+    "updateDate": 1758568430993,
+    "_id": "0e1a5a0a-bc77-49c0-bff2-e85204d4afd0",
+    "_rev": 1758568430994,
+    "id": 54
+  },
+  {
+    "enabled": true,
+    "installDate": 1758956954461,
+    "name": "statista.com",
+    "sections": [
+      {
+        "code": "div.paywallWrapper ,\nspan.gradientOverlay\n{\n    display: none !important;\n}",
+        "domains": [
+          "statista.com"
+        ]
+      }
+    ],
+    "updateDate": 1758957034052,
+    "_id": "5f2bafb1-129a-47a8-a677-3a553f03cdeb",
+    "_rev": 1758957034052,
+    "id": 55
+  },
+  {
+    "enabled": true,
+    "installDate": 1759420116739,
+    "name": "?",
+    "sections": [
+      {
+        "code": ".ytp-gradient-top,\n.ytp-gradient-bottom\n{\n    display: none !important;\n}\n",
+        "domains": [
+          "googleapis.com"
+        ]
+      }
+    ],
+    "updateDate": 1759420138065,
+    "_id": "457caaa3-bf7b-42b0-a00e-515de553e1a8",
+    "_rev": 1759420138065,
+    "id": 56
+  },
+  {
+    "enabled": true,
+    "installDate": 1759771588190,
+    "name": "newsweek.com",
+    "sections": [
+      {
+        "code": "div[class*=\"ArticleHeader_container__\"] {\n    \n    display: none;\n}",
+        "domains": [
+          "newsweek.com"
+        ]
+      }
+    ],
+    "updateDate": 1759771588190,
+    "_id": "ff9bd5d6-665b-47e3-b02c-2381a3bed3b2",
+    "_rev": 1759771588190,
+    "id": 57
+  },
+  {
+    "enabled": true,
+    "installDate": 1759784913798,
+    "name": "oddbunch.ca",
+    "sections": [
+      {
+        "code": "div[aria-label=\"Offers\"] > div> div>div>div>div>div>span[role=\"button\"]\n{\n    border: solid 2px #000;\n    border-radius: 25px;\n    padding: 30px;\n    \n}",
+        "domains": [
+          "oddbunch.ca"
+        ]
+      }
+    ],
+    "updateDate": 1759787524391,
+    "_id": "6e947cb9-cc89-4dbb-9542-48ca67066f41",
+    "_rev": 1759787524391,
+    "id": 58
+  },
+  {
+    "enabled": true,
+    "installDate": 1760045098780,
+    "name": "thenarwhal.ca",
+    "sections": [
+      {
+        "code": "nav.fixed-top \n{\n    position: relative!important;\n}",
+        "domains": [
+          "thenarwhal.ca"
+        ]
+      }
+    ],
+    "updateDate": 1760045116089,
+    "_id": "4fde23eb-66ef-4805-afcf-f54d5e24a1f6",
+    "_rev": 1760045116089,
+    "id": 59
+  },
+  {
+    "enabled": true,
+    "installDate": 1760051076150,
+    "name": "chatgpt.com",
+    "sections": [
+      {
+        "code": "div[aria-live=\"polite\"],\ndiv[popover=\"manual\"],\ndiv[class=\"aria-live=polite fixed select-none\"]\n{\n    opacity: 0.3;\n    display: none !important;\n}",
+        "domains": [
+          "chatgpt.com"
+        ]
+      }
+    ],
+    "updateDate": 1784268098479,
+    "_id": "e0f560e3-bcc6-4058-866a-a717fe50040d",
+    "_rev": 1784268098479,
+    "id": 60
+  },
+  {
+    "enabled": true,
+    "installDate": 1760065582623,
+    "name": "instacart.ca",
+    "sections": [
+      {
+        "code": ".body--auth-modal-open\n{\n    overflow: auto !important;\n}",
+        "domains": [
+          "instacart.ca"
+        ]
+      }
+    ],
+    "updateDate": 1760065582623,
+    "_id": "1c0c4c42-9857-4c04-bc3b-40bce27d834d",
+    "_rev": 1760065582624,
+    "id": 61
+  },
+  {
+    "enabled": true,
+    "installDate": 1760513090817,
+    "name": "whatsapp.com",
+    "sections": [
+      {
+        "code": "button[aria-label=\"Meta AI\"] \n{\n    display: none !important;\n}\n\ndiv:has(>div>div>svg[viewBox=\"0 0 156 132\"]),\ndiv:has(>button>div>img[src=\"https://static.whatsapp.net/rsrc.php/yE/r/f-9DtrWWz5Y.webp\"]),\ndiv:has(>span>button[aria-label=\"Meta AI\"]),\ndiv:has(>span>button[aria-label=\"Channels\"]),\ndiv:has(>div>span[data-icon=\"wa-square-icon\"]),\ndiv:has(>div>div>span>button[aria-label=\"Close\"]),\nbutton[aria-label=\"Group video call\"]\n{\n    display: none;\n}",
+        "domains": [
+          "whatsapp.com"
+        ]
+      }
+    ],
+    "updateDate": 1776198472493,
+    "_id": "03d2e7a1-6422-4208-9d0b-eaa913bfb3df",
+    "_rev": 1776198472493,
+    "id": 62
+  },
+  {
+    "enabled": true,
+    "installDate": 1760724794300,
+    "name": "feedthesoulyeg.ca",
+    "sections": [
+      {
+        "code": "div.fluidImageOverlay\n{\n    display: none;\n}",
+        "urlPrefixes": [
+          "https://feedthesoulyeg.ca"
+        ]
+      }
+    ],
+    "updateDate": 1760724908594,
+    "_id": "208b73a0-2c59-46e9-982c-809d1f8e0c58",
+    "_rev": 1760724908595,
+    "id": 63
+  },
+  {
+    "enabled": true,
+    "installDate": 1760849780752,
+    "name": "google.com",
+    "sections": [
+      {
+        "code": "a[href*=\"udm=50\"]\n{\n    \n    display: none;\n}",
+        "domains": [
+          "google.com"
+        ]
+      }
+    ],
+    "updateDate": 1760849793905,
+    "_id": "a603bfc4-89fc-41e8-bb55-7107b3ad9efe",
+    "_rev": 1776129524334,
+    "id": 64
+  },
+  {
+    "enabled": true,
+    "installDate": 1763668672726,
+    "name": "www.instagram.com/stories/",
+    "sections": [
+      {
+        "code": "div[data-interactable=\"|click|\"] > div {\n    background-image: none !important;\n}\n    \ndiv:has(>div>div>div>textarea[placeholder*=\"Reply to \"])\n{\n    margin-bottom: 55px;\n    background-image: none !important;\n}\n\ndiv:has(>div>div>div>div>div>div>div>div>div>video) + div>div:has(>div>div>span>div>div> div> span > svg[aria-label=\"Like\"]) ,\ndiv:has(>div>div>div>div>div>div>div>div>div>video) + div>div:has(>div>div>span>div>div> div> span > svg[aria-label=\"Unlike\"]) \n\n{\n    margin-bottom: 55px;\n    background-image: none;\n}\n\n\ndiv:has(+div>span>div>div> div> span > svg[aria-label=\"Like\"]),\ndiv:has(+div>span>div>div> div> span > svg[aria-label=\"Unlike\"]) \n{\n    max-width: 50%;\n    opacity: 0.5;\n}\n\ndiv[aria-label=\"Video player\"]\n{\n    display: none !important;\n}\n\nsection > div > div > div > div > div > div > div :has( > div >div[role=\"button\"])\n{\n    background-image: none !important;\n    /* width: 50% !important; */\n}",
+        "urlPrefixes": [
+          "https://www.instagram.com/stories/"
+        ]
+      }
+    ],
+    "updateDate": 1784828625950,
+    "_id": "38f3203c-6a51-4371-a776-f5636ad28b64",
+    "_rev": 1784828625950,
+    "id": 65
+  },
+  {
+    "enabled": true,
+    "installDate": 1764183405449,
+    "name": "instagram.com - 2025-11 - new",
+    "sections": [
+      {
+        "code": "div:has(>img[alt*=\"Photo shared by \"]) + div,\ndiv:has(>img[alt*=\"Photo by \"]) + div\n\n{\n    display: none !important;\n}\n\ndiv[aria-label=\"Video player\"]\n{\n    display: none !important;\n}\n\ndiv[style=\"padding-bottom: 133.333%;\"][class*=\"_\"]:has(> img) + div \n{\n    display: none;\n}\n\nvideo > div,\nvideo + div{\n    display: none !important;\n}\n\narticle > div > div > div > div {\n    background: none !important;\n}\n\ndiv[data-pagelet=\"story_tray\"]\n{\n    padding-left: 100px;\n}\n\ndiv:has( > div > div > div > div > div > div > div > svg[aria-label=\"Repost\"]),\ndiv[role=\"button\"] > div[class*=\"_\"]:nth-child(2):empty,\nli > div > div > div > div > div[class*=\"_\"]:nth-child(2):empty\n{\n    display: none !important;\n}\n\ndiv:has(>div>div>div>div[role=\"dialog\"] > div > div > div > div > div > div > a[href=\"/accounts/emailsignup/\"])\n{\n    display: none !important;\n}\n\ndiv:has(> span >div > a > div >Div >div >div > svg[aria-label=\"Reels\"]),\nspan:has( >div > a > div >Div >div >div > svg[aria-label=\"Also from Meta\"]),\ndiv:has(> span >div > a > div >Div >div >div > svg[aria-label=\"Explore\"]),\ndiv:has(>div>div>div>div>div>a[href=\"/explore/people/\"])\n\n{\n    display: none !important;\n}\n\nmain>div>div\n{\n    max-width: 100% !important;\n}\n\nmain>div>div>div>div.html-div>div.html-div {\n    /* --x-width: 100vw !important; */\n}\n\ndiv[data-instancekey*=\"id-vpuid\"] > div:has(>div>button[aria-label=\"Toggle audio\"]) \n{\n    height: auto;  \n    \n}\n\narticle > div > div > div > div > div[role=\"button\"] > div > div > div > div > div > div > div[role=\"presentation\"] > div > ul > li > div > div > div > div > div > div:nth-of-type(2)\n{\n    display: none !important;\n}\n\narticle > div > div > div > div > div[role=\"button\"] > div > div > div > div > div > div > div[role=\"presentation\"] > div > ul > li > div > div > div > div > div > div > div:nth-of-type(2)\n{\n    display: none !important;\n}\n\narticle > div > div > div > div > div[role=\"button\"] > div > div > div > div > div:nth-of-type(2):not(:has(ul))\n{\n    display: none !important;\n}\n\n",
+        "domains": [
+          "instagram.com"
+        ]
+      }
+    ],
+    "updateDate": 1780432951040,
+    "_id": "68f32be7-536f-40ff-bcba-ee76261efdaf",
+    "_rev": 1780432951040,
+    "id": 66
+  },
+  {
+    "enabled": true,
+    "installDate": 1765265398945,
+    "name": "thangs.com",
+    "sections": [
+      {
+        "code": "div[class*=\"AttachmentCaption_Container\"]\n{\n    \n    opacity: 0.5;\n}",
+        "domains": [
+          "thangs.com"
+        ]
+      }
+    ],
+    "updateDate": 1765265401708,
+    "_id": "56e71bfd-d679-4fe4-b46b-7217f5a87f1b",
+    "_rev": 1765265401708,
+    "id": 67
+  },
+  {
+    "enabled": true,
+    "installDate": 1765415389628,
+    "name": "otter.ai",
+    "sections": [
+      {
+        "code": "div[class*=\"absolute bottom-[110px]\"]\n{\n    display: none;\n}",
+        "domains": [
+          "otter.ai"
+        ]
+      }
+    ],
+    "updateDate": 1765415389628,
+    "_id": "db3eed59-c0fc-4b14-b008-f557be4e5cbe",
+    "_rev": 1765415389629,
+    "id": 68
+  },
+  {
+    "enabled": true,
+    "installDate": 1766192178599,
+    "name": "vimeo.com",
+    "sections": [
+      {
+        "code": "div:has( > div > button[aria-label=\"Close\"])\n{\n    display: none;\n}\n\n\ndiv:has(>div.chakra-card),\na[href=\"/plans\"],\nsvg[data-vimeo-icon=\"true\"]\n{\n    display: none;\n}\n\ndiv[class*=\"PlayButton_module_playButtonWrapper\"],\ndiv[class*=\"ProgressBar_module_progressBarContainer\"],\ndiv[class*=\"OverlayBase_module_overlayWrapper\"]\n{\n    display: none;\n}\n\ndiv[class*=\"ControlBar_module_controlBarWrapper\"]\n{\n    width: 200px;\n    right: 1em;\n    left: auto;\n}\n\ndiv.vp-player-ui-overlays\n{\n    width: 50% !important;\n    right: 0;\n    left: auto !important;\n}\n\ndiv.vp-target,\ndiv.vp-player-ui-container,\ndiv.vp-content-area-background,\ndiv.vp-preview \n{\n\n    display: none !important;\n    \n}\n\ndiv.vp-telecine.invisible\n{\n    opacity: 1;\n}",
+        "domains": [
+          "vimeo.com"
+        ]
+      }
+    ],
+    "updateDate": 1774743606375,
+    "_id": "d2d30f73-d910-4fce-8a62-5d9b1fbbefd3",
+    "_rev": 1774743606375,
+    "id": 69
+  },
+  {
+    "enabled": true,
+    "installDate": 1766429513095,
+    "name": "themain.com",
+    "sections": [
+      {
+        "code": "div[data-section=\"content-gate\"],\ndiv[data-sentry-component=\"Banner\"],\ndiv.flex.fixed.bottom-0,\n#cta-become-member\n{\n    display: none;\n}",
+        "domains": [
+          "themain.com"
+        ]
+      }
+    ],
+    "updateDate": 1766430294400,
+    "_id": "e9396a09-0e54-41fb-ad76-f9002875aea0",
+    "_rev": 1766430294400,
+    "id": 70
+  },
+  {
+    "enabled": true,
+    "installDate": 1769723197880,
+    "name": "x.com",
+    "sections": [
+      {
+        "code": "a[href=\"/i/grok\"],\na[href=\"/i/premium_sign_up\"],\na[href=\"/i/jf/creators/studio\"]\n\n{\n    display: none !important;\n}\n\ndiv:has(>div>aside>a[href=\"/i/premium_sign_up\"])\n{\n    display: none !important;\n}\n",
+        "domains": [
+          "x.com"
+        ]
+      }
+    ],
+    "updateDate": 1769723344208,
+    "_id": "873f2bb4-8e27-4a87-8812-8b2cbdf4e6f1",
+    "_rev": 1769723344208,
+    "id": 71
+  },
+  {
+    "enabled": true,
+    "installDate": 1769821290646,
+    "name": "wsj.com",
+    "sections": [
+      {
+        "code": "div:has(>#cx-snippet-overlay-container)\n{\n    display: none;\n}",
+        "domains": [
+          "wsj.com"
+        ]
+      }
+    ],
+    "updateDate": 1769821290646,
+    "_id": "6d99688f-4b3b-4fc4-a9f6-ce1016cd1b81",
+    "_rev": 1769821290647,
+    "id": 72
+  },
+  {
+    "enabled": true,
+    "installDate": 1769981480754,
+    "name": "reddit.com",
+    "sections": [
+      {
+        "code": "#blocking-modal,\ndiv[slot=\"recommendation-overlay\"] {\n    display: none !important;\n}\n\ndiv[style*=\"backdrop-filter\"]\n{\n    display: none !important;\n}",
+        "domains": [
+          "reddit.com"
+        ]
+      }
+    ],
+    "updateDate": 1784826455074,
+    "_id": "a564a47a-ee2d-4798-b48b-9d15dba267a3",
+    "_rev": 1784826455074,
+    "id": 73
+  },
+  {
+    "enabled": true,
+    "installDate": 1772387570700,
+    "name": "tiktok.com",
+    "sections": [
+      {
+        "code": "div[data-igblock=\"true\"]\n{\n    display: none !important;\n}",
+        "domains": [
+          "tiktok.com"
+        ]
+      }
+    ],
+    "updateDate": 1772387570700,
+    "_id": "8317db18-d334-4f44-bfdd-c5d9c4a226c1",
+    "_rev": 1772387570700,
+    "id": 74
+  },
+  {
+    "enabled": true,
+    "installDate": 1773289039316,
+    "name": "imgur.com",
+    "sections": [
+      {
+        "code": "div.Gallery-ContentWrapper \n{\n    overflow: visible !important;\n}",
+        "domains": [
+          "imgur.com"
+        ]
+      }
+    ],
+    "updateDate": 1773289061198,
+    "_id": "f8e4e8cd-be24-4dc7-8cb7-ea585da96910",
+    "_rev": 1773289061198,
+    "id": 75
+  },
+  {
+    "enabled": true,
+    "installDate": 1774575559449,
+    "name": "www.canada.ca/en/revenue-agency/services/e-services/cra-login-services",
+    "sections": [
+      {
+        "code": "h1 {\n    line-height: 0.8em;\n    margin: 5px !important;\n}\nh2 {\n    line-height: 0.5em;\n    margin: 0 !important;\n}\nbody {\n    font-size: 0.5em;\n    line-height: 0.5em;\n}\n\nh2.h3 {\n    font-size: 1em !important;\n}\n.alert {\n    font-size: 0.5em !important;\n    margin: 0;\n    padding: 0;\n}\n.alert>:first-child:not(details) {\n    padding: 0;\n}\n.alert p {\n    padding: 0 !important;\n}\n.alert::before, .alert-info::before {\n    display: none;\n}\ndiv.container p {\n    \n}",
+        "urlPrefixes": [
+          "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html"
+        ]
+      }
+    ],
+    "updateDate": 1774576101202,
+    "_id": "73535b03-76c8-4336-89e9-82ae3a5e0659",
+    "_rev": 1774576101203,
+    "id": 76
+  },
+  {
+    "enabled": true,
+    "installDate": 1774576288962,
+    "name": "cra-arc.gc.ca",
+    "sections": [
+      {
+        "code": "p {\n    font-size: 0.7em !important;\n    line-height: 1.2em !important;\n    margin-bottom: 3px !important;\n}",
+        "domains": [
+          "cra-arc.gc.ca"
+        ]
+      }
+    ],
+    "updateDate": 1774576361694,
+    "_id": "8b2a893d-ae9b-499c-877f-3e8cbeabed2f",
+    "_rev": 1774576361694,
+    "id": 77
+  },
+  {
+    "enabled": true,
+    "installDate": 1776185854326,
+    "name": "cloud.3dprinteros.com",
+    "sections": [
+      {
+        "code": "#login li.el-select-dropdown__item:nth-child(-n+85),\n#login li.el-select-dropdown__item:nth-child(n+95),\n#login div[role=\"separator\"],\n    #map,\n    div.banner,\n    nav[aria-label=\"Main navigation\"],\n    div.soc-login-btn,\n    div[role=\"banner\"],\n    div.user-auth-info,\n    div.forgot-password-link\n    \n    \n    \n{\n        display: none;\n}\n",
+        "urlPrefixes": [
+          "https://cloud.3dprinteros.com/"
+        ]
+      }
+    ],
+    "updateDate": 1776186324061,
+    "_id": "730239d3-2899-4932-83c1-ea37766e9c39",
+    "_rev": 1776186324062,
+    "id": 78
+  },
+  {
+    "enabled": true,
+    "installDate": 1776187162384,
+    "name": "uindex.org",
+    "sections": [
+      {
+        "code": "aside,\nbutton.tmdb-trailer-btn,\nnav.site-nav,\nspan.dt-download-hint,\n#content div.dt-related:nth-of-type(7)\n{\n    display: none;\n}\n\na.dt-download-btn\n{\n    width: 100%;\n}\ndiv.dt-download-box {\n    text-align: center;\n}",
+        "domains": [
+          "uindex.org"
+        ]
+      }
+    ],
+    "updateDate": 1776187422058,
+    "_id": "ba174207-dcca-49ce-bc2f-2ea90c5ffc97",
+    "_rev": 1776187422058,
+    "id": 79
+  },
+  {
+    "enabled": true,
+    "installDate": 1776298855488,
+    "name": "substack.com",
+    "sections": [
+      {
+        "code": "div[aria-label=\"Subscribe modal\"],\ndiv[class*=\"background-\"]\n\n{\n    display: none;\n}",
+        "domains": [
+          "substack.com"
+        ]
+      }
+    ],
+    "updateDate": 1776298979274,
+    "_id": "736a149a-6a50-438a-90c5-94daa591191c",
+    "_rev": 1776298979274,
+    "id": 80
+  },
+  {
+    "enabled": true,
+    "installDate": 1776748003851,
+    "name": "downloadtorrentfile.com",
+    "sections": [
+      {
+        "code": "button:has(#watch),\nbutton:has(i.fa-copy),\ndiv.tips-content\n{\n    display: none;\n}",
+        "domains": [
+          "downloadtorrentfile.com"
+        ]
+      }
+    ],
+    "updateDate": 1776748058923,
+    "_id": "636790c7-c9ed-43c5-80d7-724cdf784f23",
+    "_rev": 1776748058924,
+    "id": 81
+  },
+  {
+    "enabled": true,
+    "installDate": 1776748126051,
+    "name": "bt4gprx.com",
+    "sections": [
+      {
+        "code": "a.btn-info,\na.btn-success,\nspan:has(a[href*=\"//www.google.com\"]),\na[href*=\"/takedown\"],\ndiv.card:has(>div.card-body>a[href*=\"/search\"])\n{\n    display: none;\n}",
+        "domains": [
+          "bt4gprx.com"
+        ]
+      }
+    ],
+    "updateDate": 1776748245315,
+    "_id": "634b8ab1-cdf1-48e1-b39e-f46919ace738",
+    "_rev": 1776748245315,
+    "id": 82
+  },
+  {
+    "enabled": true,
+    "installDate": 1779084175044,
+    "name": "imdb.com",
+    "sections": [
+      {
+        "code": "div[data-testid=\"media-viewer__touch-handler\"]\n{\n    display: none;\n}\n",
+        "domains": [
+          "imdb.com"
+        ]
+      }
+    ],
+    "updateDate": 1779084175044,
+    "_id": "9849b759-15b8-448f-bce4-8490e82da8ba",
+    "_rev": 1779084175044,
+    "id": 83
+  },
+  {
+    "enabled": true,
+    "installDate": 1779207444205,
+    "name": "192.168.1.42:2284",
+    "sections": [
+      {
+        "code": "div.drop-shadow-\\[0_0_1px_rgba\\(0\\,0\\,0\\,0\\.4\\)\\]\n{\n    --tw-drop-shadow-size: 0;\n    --tw-drop-shadow: none;\n    filter: none;\n    --tw-gradient-stops: none;\n}\n\ndiv[class=\"right-0 flex flex-col items-end justify-end gap-2 p-4 z-60 top-16 fixed\"]\n{\n    opacity: 0.7;\n}\n\ntextarea[id*=\"input-ui-id-\"]\n{\n    min-height: 3em !important;\n}\n\ndiv.right-0\n{\n    right: 40% !important;\n}",
+        "urlPrefixes": [
+          "http://192.168.1.42:2284"
+        ]
+      }
+    ],
+    "updateDate": 1780446697301,
+    "_id": "1d8a5654-8b6e-4ff7-b99c-a69fcf23a741",
+    "_rev": 1780446697301,
+    "id": 84
+  },
+  {
+    "enabled": true,
+    "installDate": 1780001136356,
+    "name": "airbnb.ca",
+    "sections": [
+      {
+        "code": "div[style*=\"border-radius: 28px; box-shadow: var(--elevation-tertiary-box-shadow), 0px 2px 4px 0px rgba(0, 0, 0, 0.18), 0px 0px 0px 1px rgba(0, 0, 0, 0.08);\"]\n{\n  /*  \n    background-color: #f00 !important;\n    */\n}\n\ndiv[style*=\"width: 40px;\"]\n{\n    background-color: #ff0 !important;\n    border: solid 4px !important;\n    height: 4em !important;\n}",
+        "domains": [
+          "airbnb.ca"
+        ]
+      }
+    ],
+    "updateDate": 1780001299345,
+    "_id": "5ae23292-c15e-4aa2-8e78-e51416b35332",
+    "_rev": 1780001299345,
+    "id": 85
+  },
+  {
+    "enabled": true,
+    "installDate": 1781296088442,
+    "name": "sportsurge.ws",
+    "sections": [
+      {
+        "code": "footer,\ndiv:has(>div>div#streams)\n\n{\n    display: none;\n}\n\nmain\n{\n    padding: 0 !important;\n    margin: 5px !important;\n    max-width: 99% !important;\n}\n\ndiv.row\n{\n    margin: 0 !Important;\n}\n\ndiv.col-lg-8\n{\n    width: 100%;\n}\ndiv.col-lg-4.d-lg-block.d-none\n{\n    flex-basis: 100%;\n}",
+        "domains": [
+          "sportsurge.ws"
+        ]
+      }
+    ],
+    "updateDate": 1781296545242,
+    "_id": "26cb8301-894c-437b-8eaf-586298b2261e",
+    "_rev": 1781296545242,
+    "id": 86
+  },
+  {
+    "enabled": true,
+    "installDate": 1781637332517,
+    "name": "streamed.pk",
+    "sections": [
+      {
+        "code": "div.chat-container {display: none;}\ndiv.max-w-full.h-full.transition-all.block ,\nh3.text-muted-foreground,\ndiv.flex.flex-1.items-center.space-x-2\n{\n    display: none;\n}\ndiv.md\\:w-3\\/4\n{\n    width: 100%;\n}",
+        "domains": [
+          "streamed.pk"
+        ]
+      }
+    ],
+    "updateDate": 1781637653687,
+    "_id": "90cd824b-03ff-41fa-842e-7735180ac6b7",
+    "_rev": 1781637653687,
+    "id": 87
+  },
+  {
+    "enabled": true,
+    "installDate": 1782768459364,
+    "name": "letterboxd.com",
+    "sections": [
+      {
+        "code": "div > a[href*=\"/pro/\"] { display: none; }",
+        "domains": [
+          "letterboxd.com"
+        ]
+      }
+    ],
+    "updateDate": 1782768459364,
+    "_id": "aad1d35c-8144-4cb2-9abf-fc557a8352de",
+    "_rev": 1782768459364,
+    "id": 88
+  },
+  {
+    "enabled": true,
+    "installDate": 1783194057288,
+    "name": "vkvideo.ru",
+    "sections": [
+      {
+        "code": "\ndiv:has(> button.btn-d--next),\nbutton[data-testid=\"btn-next\"]\n{ display: none !important; }",
+        "domains": [
+          "vkvideo.ru"
+        ]
+      }
+    ],
+    "_rev": 1783194194752,
+    "updateDate": 1783194194752,
+    "_id": "cfdd4361-413e-482e-a94c-15df012af0dd",
+    "id": 89
+  },
+  {
+    "enabled": true,
+    "installDate": 1783657554559,
+    "name": "en.jff.jpf.go.jp",
+    "sections": [
+      {
+        "code": "div.watermark-fonsize { display: none; }",
+        "domains": [
+          "en.jff.jpf.go.jp"
+        ]
+      }
+    ],
+    "_rev": 1783657554559,
+    "updateDate": 1783657554559,
+    "_id": "0b8ec0ba-74ee-4e09-adaf-89b3312d4d9a",
+    "id": 90
+  },
+  {
+    "enabled": true,
+    "installDate": 1783830403144,
+    "name": "192.168.1.42/web/index",
+    "sections": [
+      {
+        "code": "div[class*=\"VirtualHubScroller-hubScroller-\"] > div\n{\n    height: 225px !important;\n}\n\ndiv[class*=\"VirtualHubScroller-hub-\"]\n{\n    margin: 0px !important;\n}\n\ndiv[class*=\"DirectoryPageHeader-pageHeader-\"],\ndiv[class*=\"DirectoryListToolbar-pageHeader-\"]\n{\n    margin: 0px !important;\n    height: 40px;\n    scale: 1;\n}\n\ndiv#plex > div > div[class*=\"NavBar-container-\"]\n{\n    margin: 0px !important;\n}\n\ndiv[class*=\"SourceSidebar-collapsedSidebar\"],\ndiv[class*=\"SourceSidebar-sidebarUnderlay-\"] \n{\n    margin: 0px !important;\n    min-width: 54px !important;\n    max-width: 54px !important;\n}",
+        "urlPrefixes": [
+          "http://192.168.1.42:32400/web/index.html"
+        ]
+      }
+    ],
+    "_rev": 1784706711320,
+    "updateDate": 1784706711320,
+    "_id": "6b884edd-a33a-4214-872b-c938ef92be03",
+    "id": 91
+  },
+  {
+    "enabled": true,
+    "installDate": 1784055631621,
+    "name": "www-economist-com.login.ezproxy.library.ualberta.ca",
+    "sections": [
+      {
+        "code": "div[data-testid=\"paywall\"],\ndiv[class*=\"adComponent_advert\"]\n{ display: none; }",
+        "domains": [
+          "www-economist-com.login.ezproxy.library.ualberta.ca"
+        ]
+      }
+    ],
+    "_rev": 1784055843277,
+    "updateDate": 1784055843277,
+    "_id": "72608254-8cb4-4f0c-97a9-8f80eb8c8819",
+    "id": 92
+  },
+  {
+    "enabled": true,
+    "installDate": 1784091011272,
+    "name": "yandex.com.tr",
+    "sections": [
+      {
+        "code": "div[id*=\"video-viewer-\"],\ndiv[data-testid=\"overlay-pause-suggestions-container\"]\n{ display: none !important;}",
+        "domains": [
+          "yandex.com.tr"
+        ]
+      }
+    ],
+    "_rev": 1784091606898,
+    "updateDate": 1784091606898,
+    "_id": "e3eae659-31b0-440d-92cc-5753ac4ad158",
+    "id": 93
+  },
+  {
+    "enabled": true,
+    "installDate": 1784604176767,
+    "name": "dailymotion.com",
+    "sections": [
+      {
+        "code": "div.gradient \n{\n    display: none! important;\n}",
+        "domains": [
+          "dailymotion.com"
+        ]
+      }
+    ],
+    "_rev": 1784604176767,
+    "updateDate": 1784604176767,
+    "_id": "630d9ef7-1d94-43eb-96cb-88620cef3f93",
+    "id": 94
+  }
+]
